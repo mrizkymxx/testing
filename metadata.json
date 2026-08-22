@@ -1,0 +1,6 @@
+{
+  "name": "Portal Desa Rau",
+  "description": "Portal Resmi Pemerintah Desa Rau, Kecamatan Kedung, Kabupaten Jepara - Layanan Publik, Profil Desa, Berita, dan Informasi Desa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
